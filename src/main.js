@@ -11,5 +11,5 @@ app.whenReady().then(() => {
         }
     });
     
-    mainWindow.loadFile('./index.html');
+    mainWindow.loadFile('src/pages/index.html');
 });
