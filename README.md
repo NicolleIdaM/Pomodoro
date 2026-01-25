@@ -1,6 +1,7 @@
 # Pomodoro
 
 ## Prerequisites
+- ElectronJS
 - Node.js installed
 - npm
 
