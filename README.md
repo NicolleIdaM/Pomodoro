@@ -5,6 +5,11 @@
 - Node.js installed
 - npm
 
+## Links
+- [ElectronJs](https://www.electronjs.org/pt/docs/latest/tutorial/tutorial-prerequisites)
+- [Node.js Download](https://nodejs.org/en/download)
+- [How install Node.js](https://youtu.be/lt5D2EWZMN0?si=WPaNDNJWNgTV8r1G)
+
 ## Installation (on terminal)
 ```bash
 npm install -g electron
