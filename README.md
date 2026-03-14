@@ -1,5 +1,8 @@
 # Pomodoro
 
+## Published Site
+- [Itch.io](https://nippy-yoda.itch.io/pomodoro-timer)
+
 ## Prerequisites
 - ElectronJS
 - Node.js installed
